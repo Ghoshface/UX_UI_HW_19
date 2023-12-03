@@ -1,0 +1,75 @@
+    text-emphasis-color: white;
+    color: white;
+
+
+}
+img {
+    opacity: 0body {
+.5;
+   
+  }
+  
+  img:hover {
+    opacity: 1.0;
+  }
+
+.logo {
+    height: 600px;
+    padding: 25px;
+  
+}
+
+/* Styling for elements with the class of inline-block */
+.inline-block .logo {
+    display: inline-block;
+    vertical-align: top;
+  
+}
+
+/* Styling for the div with the class of logo */
+.navigation {
+    width: 23%;
+    padding: 1%;
+    text-align: center; /* Center the images inside the logo container */
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Styling for the HTML element nav */
+nav {
+    width: 73%;
+    padding: 1%;
+}
+/* Styling for the HTML ul element */
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+/* Styling for the section with the class of heroImg */
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+/* Styling for the class of content */
+.content {
+    width: 500px;
+    margin: 0 auto; /* Center the content */
+}
+/* Styling for the HTML footer element */
+footer {
+    background-color: #373738;
+    padding: 20px; /* Adjust the padding as needed */
+}
+
+/* Styling for the <ul> nested inside the footer */
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Styling for the <li> elements inside the <ul> */
+footer li {
+    padding: 0 10px; /* Adjust the padding as needed */
+}

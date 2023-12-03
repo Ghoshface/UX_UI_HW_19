@@ -1,11 +1,12 @@
-    text-emphasis-color: white;
+body {
+
+text-emphasis-color: white;
     color: white;
 
 
 }
 img {
-    opacity: 0body {
-.5;
+    opacity: 0.5;
    
   }
   
